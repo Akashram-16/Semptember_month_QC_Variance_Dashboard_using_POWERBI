@@ -31,3 +31,6 @@ Filters and Slicers: Add filters for Manager, Process, jobs and other metrics.
 
 
 # -- End statement --
+
+![image](https://github.com/user-attachments/assets/1160ea78-a2d0-4f04-ac38-64bcda7cdafb)
+
